@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@hchtlz/225c7686-9685-4d25-b655-67892c93d6a8.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hchtlz/7d26e20d-70bb-4ce9-b384-9bd62932003e.png" /></a>
 
 <!--
 **hchtlz/hchtlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
