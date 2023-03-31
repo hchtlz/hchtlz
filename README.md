@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h1 align="center">👋</h1>
+<h3 align="center">I am a frontend developer from France</h3>
 
 - 🔭 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/31a2e027-fda9-4b3b-a5d8-26e55440a983.svg)
 
