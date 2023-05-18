@@ -1,6 +1,6 @@
 - 🔭 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/31a2e027-fda9-4b3b-a5d8-26e55440a983.svg)
 
-- 🌱 I’m currently learning **React & Ruby on rails**
+- 🌱 I’m currently learning **React & Ruby on Rails**
 
 - 🤝 I’m working with [etaminstudio](https://etamin.studio/)
 
