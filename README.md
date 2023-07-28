@@ -5,7 +5,10 @@
 - 🤝 I’m working with [etaminstudio](https://etamin.studio/)
 
 
-<figure><embed src="https://wakatime.com/share/@hchtlz/58b0f5f1-bccd-4391-a423-9311e064b9e4.svg"></embed></figure>
+<figure>
+  <img src="https://wakatime.com/share/@hchtlz/58b0f5f1-bccd-4391-a423-9311e064b9e4.svg" alt="Image SVG">
+</figure>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
