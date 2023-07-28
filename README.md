@@ -5,7 +5,7 @@
 - 🤝 I’m working with [etaminstudio](https://etamin.studio/)
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hchtlz/70b65a39-eae1-490b-acf1-e30e326ebfa7.png" /></a>
+<figure><embed src="https://wakatime.com/share/@hchtlz/58b0f5f1-bccd-4391-a423-9311e064b9e4.svg"></embed></figure>
 
 
 <h3 align="left">Languages and Tools:</h3>
