@@ -1,4 +1,4 @@
-- 🔭 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/31a2e027-fda9-4b3b-a5d8-26e55440a983.svg)
+- 🔭 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/83f529cf-307b-4151-b262-a752a3ffb268.svg)
 
 - 🌱 I’m currently learning **React & Ruby on Rails**
 
