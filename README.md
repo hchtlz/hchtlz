@@ -1,10 +1,10 @@
-- 🔭 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/8fc919ec-6795-441f-bf10-db4a27113cb9.svg)
+- 💻 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/8fc919ec-6795-441f-bf10-db4a27113cb9.svg)
 
 - 🌱 I’m currently learning **React & Ruby on Rails**
 
 - 🤝 I’m working with [etaminstudio](https://etamin.studio/)
 
-- 💻  <img src="https://wakatime.com/badge/user/e4f72623-caaa-4d70-a0c3-bf53fb66cbe4.svg" alt="wakatime">
+- <img src="https://wakatime.com/badge/user/e4f72623-caaa-4d70-a0c3-bf53fb66cbe4.svg" alt="wakatime">
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
