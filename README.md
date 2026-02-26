@@ -1,4 +1,4 @@
-💻 These last days I coded with these [languages](https://wakatime.com/share/@hchtlz/8fc919ec-6795-441f-bf10-db4a27113cb9.svg)
+💻 These last days I coded using these [languages](https://wakatime.com/share/@hchtlz/8fc919ec-6795-441f-bf10-db4a27113cb9.svg)
 
 🤝 Working with [etaminstudio](https://etamin.studio/)
 
