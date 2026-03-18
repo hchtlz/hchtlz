@@ -1,6 +1,6 @@
 💻 These last days I coded using these [languages](https://wakatime.com/share/@hchtlz/8fc919ec-6795-441f-bf10-db4a27113cb9.svg)
 
-🤝 Working with [etaminstudio](https://etamin.studio/)
+🤝 Working with [pretto]((https://www.pretto.fr/))
 
 <br>
 <img src="https://wakatime.com/badge/user/e4f72623-caaa-4d70-a0c3-bf53fb66cbe4.svg" alt="wakatime">
