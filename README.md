@@ -3,6 +3,7 @@
 
 🤝 Working with [@pretto](https://www.pretto.fr/)
 <br>
+<br>
 <img src="https://wakatime.com/badge/user/e4f72623-caaa-4d70-a0c3-bf53fb66cbe4.svg" alt="wakatime">
 
 <!--
